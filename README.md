@@ -3,7 +3,7 @@
 - 📚 Autualmente estou estudando HTML, CSS, JavaScript e React. 
 - 📫 Contate-me no e-mail: <a href="mailto:raulsouza180802@gmail.com">raulsouza180802@gmail.com</a>
 
-<div display:grid; grid-template-columns:repeat(2, auto); align="center">
+<div align="center">
   <a href="https://github.com/r4ulzito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4ulzito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4ulzito&layout=compact&langs_count=7&theme=dracula"/>
