@@ -22,6 +22,5 @@
   
   
   
-![Snake animation](https://github.com/r4ulzito/r4ulzito/blob/output/github-contribution-grid-snake.svg)
-</div>
+
   
