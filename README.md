@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/97764322/184032430-37487e05-f559-4bae-89ec-87d6e0cf3036.gif"></img>
 
-<h1 align='center'>Olá, me chamo Raul!</h1>
+<h1 align='center'>Olá! Me chamo Raul!</h1>
 
 ### 👋 Sobre mim:
 
