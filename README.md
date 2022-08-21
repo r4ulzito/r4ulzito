@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Aprimorando meus conhecimentos em JavaScript e React.js
+- 🚀 Aprimorando meus conhecimentos em JavaScript e ReactJS
 - 📫 Meu email: raulsouza180802@gmail.com
 
 <br><br>
