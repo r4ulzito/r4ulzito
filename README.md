@@ -11,7 +11,7 @@
 </p>
  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Aprimorando meus conhecimentos em JavaScript e React.js
+- 🚀 Aprimorando meus conhecimentos em JavaScript e ReactJS
 - 📫 Meu email: raulsouza180802@gmail.com
 
 <br><br>
@@ -19,7 +19,9 @@
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"></img>
+  <a href="https://skillicons.dev"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs"></img>
+  </a>
 </div>
 
 <br>
