@@ -4,12 +4,12 @@
 
 <p>
   <em>
-    Sou um dev apaixonado por tecnologia, atualmente focado no desenvolvimento web front-end.
+    Sou um dev apaixonado por tecnologia, atualmente focado no desenvolvimento web.
   </em>
 </p>
  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Aprimorando meus conhecimentos em JavaScript e ReactJS
+- 🚀 Aprimorando meus conhecimentos em TypeScript, React.js, APIs REST com Express
 - 📫 Meu email: raulsouza180802@gmail.com
 
 <br><br>
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,jest,mongo"></img>
   </a>
 </div>
 
