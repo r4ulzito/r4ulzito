@@ -8,7 +8,7 @@
   </em>
 </p>
  
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🚀 Aprimorando meus conhecimentos em qualidade de software, automação de testes e desenvolvimento de serviços/aplicações
 
 ## ⚡ Tecnologias
