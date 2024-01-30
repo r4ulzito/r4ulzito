@@ -4,7 +4,7 @@
 
 <p>
   <em>
-   Sou apaixonado por automação de testes e em entregar o meu melhor, estando sempre em constante evolução e aprendizagem.
+   Sou apaixonado por automação de testes e em entregar o meu melhor, buscando sempre a constante evolução. Seja bem-vindo ao meu perfil!
   </em>
 </p>
  
